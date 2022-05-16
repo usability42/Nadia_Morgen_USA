@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nadia Morgen (Note: I'm based in Florida, USA, not France.  Alas, there are two Nadia Morgens).
-- 👀 I’m interested in databases, accessibility, and UX.  I have a background in instructional design and an M.A. in Sociology.
+- 👀 I’m interested in data, databases, data crunching, data munching, accessibility, and UX.  I have a background in instructional design and an M.A. in Sociology.
 - 🌱 I recently finished a Data Science bootcamp and am seeking new job opportunities.
-- 💞️ I’m looking to collaborate on eating chocolate
+- 💞️ I’m looking to collaborate on eating chocolate (best kinds, where to get it, etc.)
 - 📫 You can reach me at usability42 at gmail
 
 <!---
